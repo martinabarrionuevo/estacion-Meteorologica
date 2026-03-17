@@ -1,2 +1,3 @@
-# estacion-Meteorologica
-Proyecto integrador de las materias de la especialidad de 5to año 2026.-
+# Estación Meteorológica ProA 
+## Integrantes: Martina Barrionuevo
+* Sensor de temperatura, humedad y presión. 
