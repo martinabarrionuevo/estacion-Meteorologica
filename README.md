@@ -40,6 +40,6 @@ En este proyecto integramos diversas herramientas distribuidas en tres áreas cl
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Markdown
 ```diff
-- Esto se ve en rojo (Proyecto: Estación Meteorológica 2026)
-+ Esto se ve en verde (Datos del Estudiante)
-! Esto se ve en naranja (Estructura del Proyecto)
+- Proyecto: Estación Meteorológica 2026
++  Datos del Estudiante
+!  Estructura del Proyecto
