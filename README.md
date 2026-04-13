@@ -38,8 +38,3 @@ En este proyecto integramos diversas herramientas distribuidas en tres áreas cl
 * **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión para el prototipo físico.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-Markdown
-```diff
-- Esto se ve en rojo (Proyecto: Estación Meteorológica 2026)
-+ Esto se ve en verde (Datos del Estudiante)
-! Esto se ve en naranja (Estructura del Proyecto)
