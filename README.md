@@ -7,7 +7,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
  ## Datos del Estudiante
 =======
 ## Datos del Estudiante
->>>>>>> d645bfdfbedc1e46b3c5893afd1dc1dbc861422b
+
 | Apellido y Nombre | E-mail | GitHub |
 | :--- | :--- | :--- |
 | Barrionuevo Martina | martinabarrionuevo@escuelasproa.edu.ar | [ver perfil](https://github.com/martinabarrionuevo)|
@@ -17,7 +17,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 ```diff
 =======
 
->>>>>>> d645bfdfbedc1e46b3c5893afd1dc1dbc861422b
+
 ## Estructura del Proyecto
 ! *  **analisis_ipynb/** Prototipado de datos en Google Colab.
 + *  **arduino_ino/** Código fuente para el Arduino UNO R3.
