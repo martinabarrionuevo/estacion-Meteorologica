@@ -3,13 +3,21 @@
 Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino UNO, Programación en el Visual Studio Code en Python y Análisis de datos con MySQL.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+
  ## Datos del Estudiante
+=======
+## Datos del Estudiante
+>>>>>>> d645bfdfbedc1e46b3c5893afd1dc1dbc861422b
 | Apellido y Nombre | E-mail | GitHub |
 | :--- | :--- | :--- |
 | Barrionuevo Martina | martinabarrionuevo@escuelasproa.edu.ar | [ver perfil](https://github.com/martinabarrionuevo)|
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
 ```diff
+=======
+
+>>>>>>> d645bfdfbedc1e46b3c5893afd1dc1dbc861422b
 ## Estructura del Proyecto
 ! *  **analisis_ipynb/** Prototipado de datos en Google Colab.
 + *  **arduino_ino/** Código fuente para el Arduino UNO R3.
@@ -19,7 +27,11 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 - * **python_app/**: Aplicación de escritorio (POO).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
 {\text{## 🛠️ Tecnologías Utilizadas
+=======
+## 🛠️ Tecnologías Utilizadas
+
 
 
 En este proyecto integramos diversas herramientas distribuidas en tres áreas clave:
