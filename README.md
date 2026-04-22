@@ -41,8 +41,8 @@ En este proyecto integramos diversas herramientas distribuidas en tres áreas cl
 ### 🤖 Robótica (Hardware y Simulación)
 * [Arduino IDE](https://www.arduino.cc/en/software) - Programación de sensores en C++.
 * [Tinkercad](https://www.tinkercad.com/) - Simulación del circuito electrónico.
-<<<<<<< HEAD
+
 * **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión.
-=======
+
 * **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión.
->>>>>>> 8f9a29a7879082b928600d1294999876d589d3fe
+
