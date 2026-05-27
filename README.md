@@ -46,11 +46,13 @@ En este proyecto integramos diversas herramientas distribuidas en tres áreas cl
 
 * **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión.
 
-* 🚀 Estado del Arte / Funcionalidades Logradas
+ *🚀 Estado del Arte / Funcionalidades Logradas
 Modelado de Datos: Dataset inicial normalizado, libre de duplicados y estructurado para su exportación a base de datos.
 Controlador de Estados Físico: Simulación funcional en Tinkercad que clasifica rangos térmicos, activa alarmas sonoras y reporta diagnósticos en tiempo real por pantalla LCD de forma autónoma.
+
+
 Backend Modular: Arquitectura de software en Python que abstrae el hardware en código mediante programación orientada a objetos.
-🛡️ Buenas Prácticas de Desarrollo Incorporadas
+* 🛡️ Buenas Prácticas de Desarrollo Incorporadas
 Uso estricto de .gitignore para omitir archivos temporales del sistema (__pycache__/, .pyc).
 Commits semánticos y estructurados para el control de versiones en Git.
 
