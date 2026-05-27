@@ -46,13 +46,20 @@ En este proyecto integramos diversas herramientas distribuidas en tres áreas cl
 
 * **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión.
   
- *🚀 Estado del Arte / Funcionalidades Logradas
-Modelado de Datos: Dataset inicial normalizado, libre de duplicados y estructurado para su exportación a base de datos.
-Controlador de Estados Físico: Simulación funcional en Tinkercad que clasifica rangos térmicos, activa alarmas sonoras y reporta diagnósticos en tiempo real por pantalla LCD de forma autónoma.
+## 🚀 Estado del Arte y Funcionalidades Logradas
 
+El proyecto actual implementa un sistema iterativo que resuelve de forma integral la captura, procesamiento y visualización de variables ambientales:
 
-Backend Modular: Arquitectura de software en Python que abstrae el hardware en código mediante programación orientada a objetos.
-* 🛡️ Buenas Prácticas de Desarrollo Incorporadas
-Uso estricto de .gitignore para omitir archivos temporales del sistema (__pycache__/, .pyc).
-Commits semánticos y estructurados para el control de versiones en Git.
+* **Modelado de Datos:** Dataset inicial normalizado, libre de registros duplicados y estructurado de forma óptima para su exportación a la base de datos.
+* **Controlador de Estados Físico:** Simulación funcional en Tinkercad que clasifica rangos térmicos, activa alarmas sonoras y reporta diagnósticos en tiempo real mediante una pantalla LCD de forma autónoma.
+* **Backend Modular:** Arquitectura de software en Python que abstrae el comportamiento del hardware en código mediante el paradigma de Programación Orientada a Objetos (POO).
 
+---
+
+## 🛡️ Buenas Prácticas de Desarrollo Incorporadas
+
+Para garantizar la escalabilidad y el orden del repositorio, se aplicaron los siguientes estándares profesionales:
+
+* **Gestión de Entorno:** Uso estricto de `.gitignore` para omitir archivos temporales del sistema y del lenguaje (como `__pycache__/` y `.pyc`).
+* **Historial Limpio:** Implementación de *commits* semánticos y estructurados para un control de versiones claro en Git.
+* **Modularidad:** Separación de responsabilidades clara entre el firmware del microcontrolador, la lógica de negocio en Python y el motor de base de datos.
