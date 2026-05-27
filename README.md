@@ -45,7 +45,7 @@ En este proyecto integramos diversas herramientas distribuidas en tres áreas cl
 * **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión.
 
 * **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión.
-
+  
  *🚀 Estado del Arte / Funcionalidades Logradas
 Modelado de Datos: Dataset inicial normalizado, libre de duplicados y estructurado para su exportación a base de datos.
 Controlador de Estados Físico: Simulación funcional en Tinkercad que clasifica rangos térmicos, activa alarmas sonoras y reporta diagnósticos en tiempo real por pantalla LCD de forma autónoma.
