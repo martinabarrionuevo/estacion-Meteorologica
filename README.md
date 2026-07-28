@@ -1,5 +1,5 @@
 
-# 🌦️ Proyecto: Estación Meteorológica — Eco-Intelligence
+# 🌦️ Proyecto: Estación Meteorológica 
 
 * **Año de Desarrollo:** 2026
 * **Especialidad:** Programación III / Robótica / Club de Ciencias — 5to Año (Escuela PRoA)
